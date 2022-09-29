@@ -1,0 +1,10 @@
+{
+  "name": "kireto",
+  "version": "1.0.0",
+  "description": "Kireto Service",
+  "main": "index.js",
+  "repository": "git@github.com:kachvame/kireto.git",
+  "author": "Simo Aleksandrov <simo3003@me.com>",
+  "license": "Unlicense",
+  "private": false
+}
